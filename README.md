@@ -2,10 +2,10 @@
 </div>  
   
 
-### <div align="center">I'm Agustin, a full-stack junior developer 👨‍💻 working working on improving my skills 🚀</div>  
+### <div align="center">「  I'm Agustin, a junior full-stack developer👨‍💻 currently <b>working</b> on improving my skills 🚀」</div>  
   
 
-<div align="center">🌱 currently learning Java and JavaScript🌱</div>  
+<div align="center">🌱learning Java and JavaScript🌱</div>  
   
 
 <br/>  
