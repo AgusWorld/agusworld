@@ -5,7 +5,7 @@
 ### <div align="center">「  I'm Agustin, a junior full-stack developer👨‍💻 currently <b>working</b> on improving my skills 🚀」</div>  
   
 
-<div align="center">🌱learning Java and JavaScript🌱</div>  
+<div align="center">🌱 learning Java 🌱</div>  
   
 
 <br/>  
@@ -66,19 +66,17 @@
 
 <br/>  
 
-<details><summary> Connect with me </summary><div align="center">
-<a href="https://github.com/agusworld" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/agusdvlp" target="_blank">
+<div align="center">
+
+<a href="https://linkedin.com/in/agusdvlp" target="_blank" align="center">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-</details>  
+
 
 <br/>  
 
-<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusworld&hide_border=true&layout=compact" align="center" /></div></details>  
+<!--<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusworld&hide_border=true&layout=compact" align="center" /></div></details>  -->
 
 <br/>  
 
