@@ -1,9 +1,10 @@
 <div align="center">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=4C7C74&center=true&random=false&width=435&lines=Back-End+Developer">
+  <br>
 </div>  
   
-<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=4C7C74&center=true&random=false&width=435&lines=Back-End+Developer">
-<br>
+
 
 
 ### <div align="center">「  Agustin Ramos 」</div>  
@@ -11,7 +12,7 @@
 
 <br/>  
 
-<details><summary> My Skill Set </summary><table><tr><td valign="top" width="33%">
+<details align="center"><summary> Skill Set </summary><table><tr><td valign="top" width="33%">
 
 
 
