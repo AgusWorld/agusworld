@@ -2,8 +2,10 @@
 </div>  
   
 <br>
-  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=4C7C74&center=true&random=false&width=435&lines=Back-End+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=4C7C74&center=true&random=false&width=435&lines=Back-End+Developer">
 <br>
+
+
 ### <div align="center">「  Agustin Ramos 」</div>  
   
 
