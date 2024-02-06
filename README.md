@@ -7,7 +7,7 @@
 
 
 
-### <div align="center">「  Agustin Ramos 」</div>  
+### <div align="center">「 <b> Agustin Ramos </b> 」</div>  
   
 
 <br/>  
@@ -78,12 +78,15 @@
 
 <br/>  
 
-<!--<details><summary> Github Stats </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusworld&hide_border=true&layout=compact" align="center" /></div></details>  -->
+
 
 <br/>  
 
   
-
+<!-- <p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=agusworld&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+   <a href="https://www.linkedin.com/in/agus-dvlp"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p> -->
 <br/>  
 
 
